@@ -55,36 +55,18 @@
 
 </div> 
     </div>
-    <style>
-      #intro {
-        background-image: url("../images/banner3.png");
-        height: 100vh;
-      }
-
-      /* Height for devices larger than 576px */
-      @media (min-width: 992px) {
-       
-      }
-
     
-    </style>
 </nav>
 
 
 <header>
-    
-
-    
-
-    
-
   <!--Main layout-->
-  <main class="mt-5">
+  <main class="mt-3">
     <div class="container">
       <!--Section: Content-->
       <section>
         <div class="row">
-          <div class="col-md-6 gx-5 mb-4">
+          <div class="col-md-6 gx-5 mb-4 pt-4 pe-5">
             <div class="bg-image  ripple shadow-2-strong rounded-5" data-mdb-ripple-color="light">
               <img src="../images/banner3.png" class="img-fluid h-250 w-150" />
               <a href="#!">
@@ -96,7 +78,6 @@
           <div class="col-md-6 gx-5 mb-4">
             <h4><strong>Facilis consequatur eligendi</strong></h4>
             <p class="text-muted">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis consequatur
               eligendi quisquam doloremque vero ex debitis veritatis placeat unde animi laborum
               sapiente illo possimus, commodi dignissimos obcaecati illum maiores corporis.
             </p>
@@ -105,6 +86,12 @@
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod itaque voluptate
               nesciunt laborum incidunt. Officia, quam consectetur. Earum eligendi aliquam illum
               alias, unde optio accusantium soluta, iusto molestiae adipisci et?
+            </p>
+            <p><strong>Doloremque vero ex debitis veritatis?</strong></p>
+            <p class="text-muted">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod itaque voluptate
+              nesciunt laborum incidunt. Officia, quam consectetur. Earum eligendi aliquam illum
+             
             </p>
           </div>
         </div>
@@ -115,13 +102,13 @@
 
       <!--Section: Content-->
       <section class="text-center">
-        <h4 class="mb-5"><strong>Facilis consequatur eligendi</strong></h4>
+        <h4 class="mb-5"><strong>NOS PROPOSITIONS DE LOGEMENTS</strong></h4>
 
         <div class="row">
           <div class="col-lg-4 col-md-12 mb-4">
             <div class="card">
               <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                <img src="https://mdbootstrap.com/img/new/standard/nature/184.jpg" class="img-fluid" />
+                <img src="../images/caravane1.jpg" class="img-fluid" />
                 <a href="#!">
                   <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
                 </a>
@@ -132,7 +119,7 @@
                   Some quick example text to build on the card title and make up the bulk of the
                   card's content.
                 </p>
-                <a href="#!" class="btn btn-primary">Button</a>
+                <a href="#!" class="btn btn-primary">Description</a>
               </div>
             </div>
           </div>
@@ -140,7 +127,7 @@
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card">
               <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                <img src="https://mdbootstrap.com/img/new/standard/nature/023.jpg" class="img-fluid" />
+                <img src="../images/caravane2.jpg" class="img-fluid" />
                 <a href="#!">
                   <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
                 </a>
@@ -151,7 +138,7 @@
                   Some quick example text to build on the card title and make up the bulk of the
                   card's content.
                 </p>
-                <a href="#!" class="btn btn-primary">Button</a>
+                <a href="#!" class="btn btn-primary">Description</a>
               </div>
             </div>
           </div>
@@ -159,7 +146,7 @@
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card">
               <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                <img src="..images/cara" class="img-fluid" />
+                <img src="../images/caravane3.jpg" class="img-fluid" />
                 <a href="#!">
                   <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
                 </a>
@@ -170,7 +157,7 @@
                   Some quick example text to build on the card title and make up the bulk of the
                   card's content.
                 </p>
-                <a href="#!" class="btn btn-primary">Button</a>
+                <a href="#!" class="btn btn-primary">Description</a>
               </div>
             </div>
           </div>
@@ -182,7 +169,7 @@
 
       <!--Section: Content-->
       <section class="mb-5">
-        <h4 class="mb-5 text-center"><strong>Facilis consequatur eligendi</strong></h4>
+        <h4 class="mb-5 text-center"><strong>NOUS CONTACTER</strong></h4>
 
         <div class="row d-flex justify-content-center">
           <div class="col-md-6">
