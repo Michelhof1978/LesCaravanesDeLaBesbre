@@ -41,7 +41,7 @@ small{
 .videoPal1{
     float: left;
     
-   
+    margin-left: 50px;
     position: relative;
 
 	padding: 15px;
@@ -76,7 +76,11 @@ small{
 
 .videoPal2{
     float: right;
-
+    margin-right: 50px;
+    margin-top: -150px;
+    position: relative;
+	width: 435px;
+	height: 250px;
 	padding: 15px;
 	
 	border: 1px solid #ddd;

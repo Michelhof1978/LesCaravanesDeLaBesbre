@@ -47,9 +47,6 @@
     <a class="nav-link " href="#">Tourisme</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="https://www.lepal.com/">Vente Billets</a>
-  </li>
-  <li class="nav-item">
     <a class="nav-link" href="#">Contact</a>
   </li>
 
@@ -60,11 +57,12 @@
     </div>
     
 </nav>
- 
-<div class="embed-responsive embed-responsive-21by9 pt-5 ps-4 pe-4">
-<img src="../images/lePal.png" class="img-fluid " />
-<iframe class="embed-responsive-item videoPal1"width="490" height="300" src="https://www.youtube.com/embed/PWIjFCqQw78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  <iframe class="embed-responsive-item videoPal2 "width="490" height="300" src="https://www.youtube.com/embed/m7PrIAN_Krs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="embed-responsive embed-responsive-21by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PWIjFCqQw78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="embed-responsive-item"width="560" height="315" src="https://www.youtube.com/embed/PWIjFCqQw78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  
 </div>
 
 

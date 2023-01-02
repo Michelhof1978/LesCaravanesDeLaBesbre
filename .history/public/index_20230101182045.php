@@ -1,7 +1,26 @@
 <?php include("header.php") ?>
+
+
+
+ <div class="palButton1">
+    <a href="https://www.lepal.com/" class="palButton2">Achetez vos billets</a>
+    <a href="https://www.lepal.com/" class="palButton3"> ICI!</a>
+ </div>
+
+
+    <section class="lePal">
+
+  <div class="videoPal1">
+    <iframe width="435" height="250" src="https://www.youtube.com/embed/PWIjFCqQw78" title="Le PAL 2018" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div> 
+
   
 
-
+<div class="videoPal2">
+<iframe width="435" height="250" src="https://www.youtube.com/embed/m7PrIAN_Krs" title="JOURNÉE À LA DÉCOUVERTE DU PARC LE PAL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="clear"></div>
+</section>
 
 <!--<section class="offre">
     <h2>NOS OFFRES</h2>
@@ -38,7 +57,7 @@
         </article>
 
         
-    </div>-->
+    </div>--
 <div class="clear"></div>
 </section>
 <p class="campagne">VENEZ DECOUVRIR LA BEAUTE DE LA CAMPAGNE</p>

@@ -39,13 +39,6 @@ small{
 
 /* videoPal */
 .videoPal1{
-    float: left;
-    
-   
-    position: relative;
-
-	padding: 15px;
-	
 	border: 1px solid #ddd;
 	background: #FFF;
 	/* CSS3 effects */
@@ -55,28 +48,16 @@ small{
 }
  
 
-#videoPal1:before,
-#videoPal1:after {
-	position: absolute;
-	bottom:16px;
-	z-index: -10;
-	width: 50%;
-	height: 20px;
-	content: " ";
-	background: rgba(0,0,0,0.1);
-	border-radius: 50%;
-	box-shadow: 0 0 3px rgba(0,0,0, 0.4), 0 20px 10px rgba(0,0,0, 0.7);
-}
-#videoPal1:before {
-	left:0;
-	transform: rotate(-4deg);
-}
 
 
 
 .videoPal2{
     float: right;
-
+    margin-right: 50px;
+    margin-top: -150px;
+    position: relative;
+	width: 435px;
+	height: 250px;
 	padding: 15px;
 	
 	border: 1px solid #ddd;

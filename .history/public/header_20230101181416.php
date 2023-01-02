@@ -47,9 +47,6 @@
     <a class="nav-link " href="#">Tourisme</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="https://www.lepal.com/">Vente Billets</a>
-  </li>
-  <li class="nav-item">
     <a class="nav-link" href="#">Contact</a>
   </li>
 
@@ -60,14 +57,6 @@
     </div>
     
 </nav>
- 
-<div class="embed-responsive embed-responsive-21by9 pt-5 ps-4 pe-4">
-<img src="../images/lePal.png" class="img-fluid " />
-<iframe class="embed-responsive-item videoPal1"width="490" height="300" src="https://www.youtube.com/embed/PWIjFCqQw78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  <iframe class="embed-responsive-item videoPal2 "width="490" height="300" src="https://www.youtube.com/embed/m7PrIAN_Krs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
 
 
 <header>
@@ -86,14 +75,24 @@
             </div>
           </div>
 
-          <div class="col-md-6 gx-5 mb-4 pt-5">
+          <div class="col-md-6 gx-5 mb-4">
             <h4><strong>Facilis consequatur eligendi</strong></h4>
             <p class="text-muted">
-            Goûtez aux plaisirs du Camping sur un site exceptionnel, pleine nature, dans un cadre ombragé, de verdure et de calme situé au bord d’une rivière à Dompierre-sur-Besbre, proche des commerces. A proximité du Parc d'Attraction *le PAL* à moins de 10 minutes. Laissez-vous enchanter par notre ambiance caravane. Celles-ci sont en place du 04/07 au 28/08/2022 prévu pour 4 personnes (2 adultes, 2 enfants) tout confort et toutes équipées. Epicerie de base fournie (café, sucre, sel, poivre, huile, etc..). 
-            Isabelle et son équipe se tiennent à votre disposition pour faire de votre séjour un moment inoubliable.
+              eligendi quisquam doloremque vero ex debitis veritatis placeat unde animi laborum
+              sapiente illo possimus, commodi dignissimos obcaecati illum maiores corporis.
             </p>
-            
-            
+            <p><strong>Doloremque vero ex debitis veritatis?</strong></p>
+            <p class="text-muted">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod itaque voluptate
+              nesciunt laborum incidunt. Officia, quam consectetur. Earum eligendi aliquam illum
+              alias, unde optio accusantium soluta, iusto molestiae adipisci et?
+            </p>
+            <p><strong>Doloremque vero ex debitis veritatis?</strong></p>
+            <p class="text-muted">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod itaque voluptate
+              nesciunt laborum incidunt. Officia, quam consectetur. Earum eligendi aliquam illum
+             
+            </p>
           </div>
         </div>
       </section>
@@ -115,7 +114,7 @@
                 </a>
               </div>
               <div class="card-body">
-                <h5 class="card-title">Caravane BIG</h5>
+                <h5 class="card-title">Card title</h5>
                 <p class="card-text">
                   Some quick example text to build on the card title and make up the bulk of the
                   card's content.
@@ -134,7 +133,7 @@
                 </a>
               </div>
               <div class="card-body">
-                <h5 class="card-title">Caravane FLO</h5>
+                <h5 class="card-title">Caravanes</h5>
                 <p class="card-text">
                   Some quick example text to build on the card title and make up the bulk of the
                   card's content.
@@ -153,7 +152,7 @@
                 </a>
               </div>
               <div class="card-body">
-                <h5 class="card-title">Caravane OLI</h5>
+                <h5 class="card-title">Card title</h5>
                 <p class="card-text">
                   Some quick example text to build on the card title and make up the bulk of the
                   card's content.

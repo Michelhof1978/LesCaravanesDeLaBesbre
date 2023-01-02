@@ -1,4 +1,15 @@
 <?php include("header.php") ?>
+
+
+
+ <div class="palButton1">
+    <a href="https://www.lepal.com/" class="palButton2">Achetez vos billets</a>
+    <a href="https://www.lepal.com/" class="palButton3"> ICI!</a>
+ </div>
+
+
+    
+
   
 
 

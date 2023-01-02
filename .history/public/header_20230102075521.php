@@ -47,9 +47,6 @@
     <a class="nav-link " href="#">Tourisme</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="https://www.lepal.com/">Vente Billets</a>
-  </li>
-  <li class="nav-item">
     <a class="nav-link" href="#">Contact</a>
   </li>
 
@@ -60,14 +57,18 @@
     </div>
     
 </nav>
- 
-<div class="embed-responsive embed-responsive-21by9 pt-5 ps-4 pe-4">
-<img src="../images/lePal.png" class="img-fluid " />
-<iframe class="embed-responsive-item videoPal1"width="490" height="300" src="https://www.youtube.com/embed/PWIjFCqQw78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  <iframe class="embed-responsive-item videoPal2 "width="490" height="300" src="https://www.youtube.com/embed/m7PrIAN_Krs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="embed-responsive embed-responsive-21by9">
+  <video class="embed-responsive-item" muted="" autoplay="" loop="" src="https://storage.googleapis.com/cms-storage-bucket/029113ae2cbbcf9493fe.mp4" type="video/mp4" width="950">
+            <img src="https://storage.googleapis.com/cms-storage-bucket/a667e994fc2f3e85de36.png" alt="Fast /">
+   </video>
 </div>
 
-
+<div class="videoPal2">
+<iframe width="435" height="250" src="" title="JOURNÉE À LA DÉCOUVERTE DU PARC LE PAL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="clear"></div>
+</section>
 
 
 <header>
