@@ -136,10 +136,10 @@
                 <label class="form-label" for="form3Example3">Email</label>
               </div>
 
-              <!-- Textarea input -->
-              <div class="form-floating">
-                <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea"></textarea>
-                <label for="floatingTextarea">Comments</label>
+              <!-- Password input -->
+              <div class="form-outline mb-4">
+                <input type="password" id="form3Example4" class="form-control" />
+                <label class="form-label" for="form3Example4">Password</label>
               </div>
 
 
